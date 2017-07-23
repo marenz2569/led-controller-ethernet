@@ -16,4 +16,4 @@ In addition to the pcb the hardware uses an arduino pro mini and an enc28j60 bre
 - add option for rgb leds with 3 mosfets.
 
 ## license
-see lgplv2.1 in LICENSE folder.
+see lgplv2.1 in LICENSE file.
