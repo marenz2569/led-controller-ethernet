@@ -14,3 +14,6 @@ In addition to the pcb the hardware uses an arduino pro mini and an enc28j60 bre
 ## todo
 - test if regulator may be populated when inserting 5 Volts to V\_in and bridging JP1 and JP2
 - add option for rgb leds with 3 mosfets.
+
+## license
+see lgplv2.1 in LICENSE folder.
