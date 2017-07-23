@@ -8,7 +8,7 @@ In addition to the pcb the hardware uses an arduino pro mini and an enc28j60 bre
 
 ## flexibilty
 
-- V\_in ranging from 14 to 36 Volts or 5 Volts (bridge JP1 and JP2, note that switch mode regulator must not be populated).
+- V\_in ranging from 12 to 36 Volts or 5 Volts (bridge JP1 and JP2, note that switch mode regulator must not be populated).
 - V\_out switchable between 5 Volts (bridge JP2) and V\_in (bridge JP1).
 
 ## todo
